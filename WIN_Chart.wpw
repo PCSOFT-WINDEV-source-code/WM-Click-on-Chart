@@ -1,0 +1,213 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Chart
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Chart
+ identifier : 0x2727265702a4819e
+ internal_properties : CAAAAAgAAAB2e3AcjBsb0r8LWOBdJBXYj1uSHcwvc/roeDFDh7V74w3nNwpFiM4tAjhKDwNxRQlRRBEf+u46jBMM1tNIYz8o21M4SBf9373DYXQDi4r6tgGX+H6YujYAu6c5zGNyFXz78/Y3ud/XE22hfrN7aOtciDX8ede9M4/Qu/eHHey7n16Mb84VaMCUF02nSHmI+9G35E3Oert/qEIWUmRGyCVUW4XCt3S3o66wHNsFC7kfeoFOz4OgC8iwkW7a5BuCdJURAmYrtM8fTPV6OmnBcNsfhBlD63Y1OHh5DsojHvKAlfinor13PPRML9vqDcO/dduj1KS6DJjWkQMPMF0175VjHYz7uCwaOTnUIIYkQc1sCAV+hakDfkCF8UUQxasicvrg1t6Y2EbiwJaoKK8zwbeD4ARC8iDiS3///2fNC6kbuWohaspQ9tfYDPdBtQC9TfFN8Ws8OKwcHMF09gmITMPrvpzHkgLrPFxp/NP3qbuEtAUq22dGsb5R3vhBeOSpJed68eJcuDZ5Q+vfh1xSyQfvkehmE5y0HEEAl1VYe/etv6V5VCT0161Ma7i0hnn7ddmorgRTjNAcC0T+pDY/ie9YwdRBbjrqdaa962dW6iN1MTY7ysA1TRj5eL2fWrCiNF7iihLWaTjjvL8aR6Z3/VwhQJ2Jf49z5dXyb3GCj7hRfnqBslnhLCT6xiNWRE/gVKLtgo/0jPCN+SVIC5zr9XJTJUH+GhHUB51df8kfMuLSfHppQksx3plgTihn2LMjOWdHDnsM
+ properties :
+  width : 480
+  height : 290
+  heightMin : 315
+ controls :
+  -
+    name : CTPL_Pie
+    identifier : 0x2727265702a5819e
+    internal_properties : CAAAAAgAAABjRbXSDw1NUPPIb3S4abS2XFR/urDB80pXrXcSa1LYJYXlW+/TE1tn6ogooYbzOMj4SkIrKBpDkHVdKHoXr4RZKvM/8Qds3FiPjbA62/hKIZfEqBTN55nnqzLiXaP0m/JsRy7XSLIqnDYMSPtksiyAP6rsKuJPjE1DAS2JeP4i3oJpZGTwXwdsAktGZ4UBURiKvrvI+E60ozWEJFvLha1G7dn0BWiphlKjoGnOMyH1AlBPEmvISKHMy7/s+MHsPXY1YS0b4VCgWR5E1pV5QA32HiM6nyZLcTpPY6iPoInzNdyGqGoamZ+4ZoL+vEaTh8C9ByfEVdWq7KMjKxVLuBR6vtnXIhQyNv4CjrvxQepe/Q5oLtyaQNaV0vOuxsibBS4LnffJW7DtEQj6VashSp6bMvDSS1V4kyFfKjZfJxqsOY5ad8+8+a743G8UGsZVI8arXNqeGVkIcJKQ+hKo15RPOGGwR0vsSi+BsUECD4LV6hQLCaR/GM4tPT84YDQHH+8BXHk8AMvlOIUvPNhtXpEOdiZmqAGgjvcaRpWRpKQW36M+jWibFGpsHweQRKqzmBx6H2Lbs/WblsiBdBL0dZauzTluhJ7LrOV+wEOsHMV/ifAg17xTL/oaS6YK4dzNKcb+R+db3J2JnMaRKparyG9kXdBN38/Qd0EtA2YYHbxz+R70MlXEW/cW24qVIaieOCx+8MAfNbSnbptmjPEHOIpJS5P+SylojU1BPbuvp6fBcb33puis8DC+0T61Oz/vNtjCYqcs5UqS6EhZdickRhq5UF8v+nd9Txezh84PbKV2H7kXRDWDI0f0sQptk//MVOFpLLjBvAxytCfHQmx+bhc5Nw+VC6WTsWR1YFjfU60HCoaPV3OzIaGwlUj29Pj9AZY6ZzqirfiPlzMtqhx4
+    properties :
+     x : 101
+     y : 118
+     width : 278
+     height : 172
+    controls :
+     -
+       name : CHART_ChartPullOut
+       identifier : 0x2727265702a6819e
+       internal_properties : CAAAAAgAAADsGYxD0G6Z8iXgMtPyZge5nAJumiHuFKDLBZOcIoC4OXegT7vJmIVyy/c3F0OrKCnuMAV7pRR3DxkT+3+6b0gzGU4hv2v6OAp2Jle6FGcfmm+T8PIaEOI+q6tTi2LET7fxUQEwQWASsEeLnKwrMVT8R8hwM6cvaXU4ot4yZrv12EGjHLfYQDoQFk+JU1MbVjvB0IyAUY9KjkrtcJ43BSYl6qHXPHYtHskdviahkPtBlvETAmcmjOKxGHtEcntf9oW2+fQahC073eW40YHu7Rm0UG0YVnBlNRedzK95ivPquDY6d/f2oCXRPYPamNOoiO3jzllMKEIsLBEi9l5xh4bbYQGrHNBpS/J/+NeqfUXYa3bcb0Yof2g8U9EyS2ASG3y/0NWDYVqaGOVMPE24tT40NQbhwNhWyCOweSN1BmjgH10xk8M5jNaAtpoZphIJhI06Nfe4nJVAIKOGFI61ukSoh2fcSKoNuHC/wdYewnistimX2adyu26NbvBUYqiJ9TP3FQq8dP18BWFGoCtFzKxDySX0n1voDI4V4iKAM+Soo+dZw4uqG9bBrbL9eGYCHnOaBzwPw4p5JWvi6B4GpF/8iGEr07oOQHhArr5/Z2gdG1Kafsf9Y58mVWzpxJbBedkRwa1mZi5N6zaciRDFhQ/588LWgQexSYm8ijHv6QMZRTYSmijcP/BMM2OljEHxZyfouFtDrNJA0S9gAC8Ti75MKcl6wN/rHdunpoaVblJcNlwZNdCWnd5ETpqHS3d5Es4MaE3wSHl5blbRMDj8muCed/RKWc8xX7BO4QMgC0oJxJXavPxh/zheS5MWHkhveDWIeWkIK8BMctCW3dWcFUk2pmNZG4RTYK8agPtJYMMAZ33CIdrlJaNZmXdVDtjeSxevjoLnDiVnnkbi2h/Jt07sMKVAaQRFcQkAbHIX3vpjIElPk1StToYZA7XO07BJpJVGuHehVtnNlWFfjvVjiHZ0S+w4NPUvUffXuw+rNmUjZzmc6Glx5eviQxC+Oemc5JAT4j/XVoZFNjo1ZLrsovaGVJVmwml6hphXvpZ6xQKWwMT6JzRGjcs1enD9FGalfqsJky8Sy7mWMk3ekcr4T0UP/L6dHx056SFOInGx+IqvMArwby1ugaM+HKO+CpouvnK6PrNW7JH71eDHertGquFcOQMKkIi5mKK4UKeQzY6Fo5sOyfIk+MPYFLxQiZwFAe0cbaLK21QEwUElJmtEiwQT/jfIlGL4MrG/Lw0BPKlanyFN3FmruTMpzZcGIMqOSVPsEMk2zjVTSbV4vfIrIzK7dafvSv3GBFllRnK9J3u09s73IvfNtDrUkfOi/JE/JrO5DtzWtYxJ0y3l4aWroDiu6k3uPEfTt0Y8
+       properties :
+        width : 278
+        height : 172
+       type : 33
+       code_elements :
+        internal_properties : CAAAAAgAAAA6LJ738B4qTtGVudZoJwWp+ijhhhzZ7tQ78P5PeLcFEV7mSdfRklGM2ygYe/nPKi51D6OukHeSgrNZyagjrwtUAFmTWShmGAyCyFaSAAUT6pt0+KKB/H0catZ5JkMoAbxD9VHXjgIaNh0DKw==
+        type_code : 72
+        p_codes :
+         -
+           code : |1+
+            // Pulls out the section that was clicked
+            PullOutSection(MouseXPos(),MouseYPos())
+            
+           type : 18
+    type : 43
+    code_elements :
+     internal_properties : CAAAAAgAAAAGmfRLf/mxjyeFqqoiFPfvP9fforXwI2WzUD+9IkLb6a0rIpaZtBvyqlHFCypdxGmNR3HXhGXEoB/BUIgVCQSrUEBhxMhvMitgrkEHn/ru6VSZs0O5F8K5r53CBmtx6njjBw==
+     type_code : 93
+     p_codes :
+      -
+        code : |1-
+         
+      -
+        code : |1+
+         //Runs the process defined in the template
+        type : 14
+      -
+        code : |1+
+         //Runs the process defined in the template
+        type : 15
+      -
+        code : |1+
+         //Runs the process defined in the template
+        type : 16
+      -
+        code : |1+
+         //Runs the process defined in the template
+        type : 43
+      -
+        code : |1+
+         //Runs the process defined in the template
+        type : 42
+      -
+        code : |1+
+         //Runs the process defined in the template
+        type : 17
+     procedures :
+      -
+        name : PullOutSection
+        internal_properties : CAAAAAgAAACan9B9gPFn4ZmRtO+JMHBIRSScMxdw8t+QU3PjGs6CFezYmyNMW8apCBF2aHYWypbQweOwW/Dz1lTe9Jk02ofJGWcrzTWjrjMmumPFVfOsnQmHqHXJwrlc2iSb+DECL0FE/VanY6R4W79sh7aGG8+4t2zn6R0=
+        procedure_id : 1668344342072951198
+        type_code : 14
+        code : |1+
+         // Summary: Pulls out or re-centers the section that was clicked
+         // Syntax:
+         //PullOutSection (<nPosX>, <nPosY>)
+         //
+         // Parameters:
+         // 	nPosX: <specify the role of nPosX>
+         // 	nPosY: <specify the role of nPosY>
+         // Return value:
+         // 	None
+         //
+         
+         PROCEDURE PullOutSection( nPosX, nPosY )
+         
+         // Local variables
+         nSectionSubscript		is int
+         
+         
+         // Retrieves the subscript of the section that was clicked
+         nSectionSubscript = grInfoXY(CHART_ChartPullOut, grCategory, nPosX , nPosY )
+         
+         // No action if the subscript is "off bounds"
+         IF nSectionSubscript = -1 THEN RETURN
+         
+         // Reverses the current status of the section in the array (pulled out => centered / centered => pulled out)
+         gaaPulledOutSections[nSectionSubscript] = NOT gaaPulledOutSections[nSectionSubscript]
+         
+         // Pulls out (or re-centers) the section of the chart
+         grPiePullOut(CHART_ChartPullOut, nSectionSubscript, cstPullingOut * gaaPulledOutSections[nSectionSubscript])
+         
+         // Redraws the chart
+         grDraw(CHART_ChartPullOut)
+        type : 458752
+     templates :
+      -
+        name : CTPL_Pie
+        identifier : 0x1557a2df0035c514
+        code_elements :
+         internal_properties : CAAAAAgAAABB9AgEopnhV9emtAXCPbXVbx/uMV1uqdvA3UrK2L4aoLwRFgM+c18lTOBjFrBR5ahEIVOS5MCpSQPbBeKJlsJwYfPaDx7BK604B+HmXXjCOZSOhJTNo8Tq0dmF0IN8dcPSjaaVVY0nC+liB9JJd7oHiKa6
+         type_code : 93
+         p_codes :
+          -
+            code : |1+
+             PROCEDURE TPLC_PullOutChart()
+             
+             // Constants of the control template
+             CONSTANT
+             	cstPullingOut = 10
+             END
+             
+             // Global variables of the control template
+             gaaPulledOutSections	is ASSOCIATIVE ARRAY of boolean	// Array containing the status of each section (pulled our or not) for the relevant chart
+          -
+            code : |1-
+             
+            type : 14
+     procedure_templates : []
+     property_templates : []
+  -
+    name : STC_Caption1
+    identifier : 0x2727265702a7819e
+    internal_properties : CAAAAAgAAAC6/AR1hK8MuVEE8z/MMmnG84w1Qwex9kX1hw/PH9mq/fuxoKG9ON47osDNB2HnZyLnrDQ+qlir7af30wWMePT4p+eRvSTJU4nGEN6hZXqClDsmlVN3bHXfN4d/8wvzAMKKsgKPckkI2vewaNu1ZsKVQ1Mh0BYRsG9CBRr7x1UZMaJ2NcBaUDAm7yvx0AqNV9Hp+TOoQ7q50LpOUt3IXij9AvmbnGlmTr7obI3H7IuPwzHGsy1duQgpz4y/qnkdXPyMWtbEwxqS5EVx/b8WalXjlOSdaku9/kWk/kg25Qoi/qqOz0kZyBQBqwZJ3cQjt5fs63+fp8MOW0t8bipqdw+JVGZ+aXsax79nQW2gf1ELKr7sfOGJUYpcy8bsZbqNNCyC/zdESqvlgKDNoJsBBJAnTgXT6VMPBt9TCd+4yb9l+/Rgcgy6wk5i5wIKSk3HbSuXeJ6L6V9QK58EKVJPSVNquK24EADRElLjpavYwMi51zDxlvw0Aow6CzNMcUYhjMRD//l1mKrDPy+6WGcBeZiGQ09udR+hsQVtfHBAzsxkaAj6xHqQ/O+YVRrJLodxXOJH7zY9UpkK5+wfjyw8uPcnik5TTCJsyVFSe/CZjIQo5sEQXr0K5FlsxbqAcrbeazwn0iN+KJdsbG4zFGNPNmxC7fgko51ICwOikMftpFj0/b9jRT4=
+    properties :
+     x : 2
+     y : 23
+     width : 476
+     height : 93
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x29d1dec103e9570e
+  internal_properties : CAAAAAgAAADgMVTORwj2Mt8z/R5WRL0mTVIMDO11ij5YdBwcO3ZAw8tWdEBL95DgWGGgMGBRKql5dANp5Vg/qpNyJvJQ8sIrr6GzC+masJIwyV5P7DpW0go2kGsf4EvdW1eqlu6V7I5EHVrMjd02cTaXwP0dbd1DSbdsd/Wxk0ScMGI7Z0eDsGOMLRfieoTYskOjcLtA7tgFoR24z+3d3zH3Bloaoqj6XKllvOzqHQUKs5ikiJtsiZpXF9leDIYykRzjnC4k4qQVjthAFpugw+diG+HfnEMv+L/rU3DRjlIiDq+0aeUP
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAD9Im+dVFgmzqQX1cWksKDT4RdKbUURdKnD+x7VN8mLH9uCY5fkTudZU3F8h6RC2BE1u1HIjeuclHivm/gDc8NWKwguGsnc1GgEuFBiKxR8g+mK2tdp+ofqw7S8
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 2
+   -
+     code : |1-
+      
+     type : 11
+   -
+     code : |1-
+      
+     type : 12
+   -
+     type : 17
+   -
+     code : |1-
+      
+     type : 13
+ code_parameters :
+  internal_properties : CAAAAAgAAADvmj0e430WqkXdGalMAID+7IWDbqZfwKpeIFawL3BBO0u3STJZC1Fb9zkhoYw4sbcEKoUGnLIkEDPFcFX2KpTTo8caVPTL3//ll3BMCeseQl5iH6VW2ZSQ954CuTrgF2GBLbaKkfUq1lIg7w7VCWF3jK7D3qlJ90RXA/WeNxPJuWyudfA0La4txw==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x1fc51f2a0038e98d
+  internal_properties : CAAAAAgAAAB2h+49Mx/R5NcCmIifGBA9SVc9FhOo9GEb3Nrmgza2C6sPytOSr+R63Uum91OfrgnNx99tnWqt
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+associated_test :
+ name : TEST_Graphique.wxt
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

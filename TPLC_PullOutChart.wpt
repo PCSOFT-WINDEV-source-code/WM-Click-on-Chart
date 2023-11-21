@@ -1,0 +1,125 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : TPLC_PullOutChart
+ major_version : 28
+ minor_version : 0
+ type : 20
+ description : ""
+ subtype : 0
+window :
+ name : TPLC_PullOutChart
+ identifier : 0x2727265802e58528
+ internal_properties : CAAAAAgAAACpgkLqo8+zL+mi5N7I1KaX9tX95KhTZk8cpcsUv18ikoUhFpNUJeevxxZZqHv6yUz7s7LRPNUVDwqDBt3e4Pp7X1JzzIXuZZtYE14JuTHcblYidjMh4a10GsZGaJxN/NkoGQce1OYZw7qNEE0/6RUmLLi80Y0Q2xmWPSwbfAjJ9nxxT2jM4RyHuvBdDBitVC8yCQKiZaifhz2H/Jh0Z56hrJ8f77eW7XTZrKsvHyusa2OeTnShc8vPYjDtvqBY8hvb2qrQ3QgxEeZGXKdV1eO3848QYEDCD+aATASS/jC4qQpm/YsMZTihL7Fw7lZNuTlOIYkzrlmyLS678H677fgFbST7f+fwh3whsYuM8S0NSpNrPSSu+pQ2e14nXWeBDCzXplZv9v9Lx2ZPgf3UljycqsBgJMvwaYh2JpuvnQCQZ0dnDeJ6LhlSDZACPz8MpQUFhkR84jDD+sNH061AZ80bc2QxsLQaygXMx23Lu6bDJNO5Vqe8ko7/E66Qhz+8q6UAhOTCXidDGb1zTmSilQ88G0kOZ5GLR7Wn3uttGQ8eShSMhApia/uxWpmEceuEDQcw8h8nixctKmEPrM3JdgsAi9aKUytAId1+HsVPNOh7TAsPNVqXhh4EPGCOKImhAhPfyWGPmQ4Tud2zwh36nC4LoWO7uSQpJoXQqnM2RECrvB/TX/Ex1d4Vxd0nvGQhqwHdjpCne0P4hgSSxYg+Zc/ZrBsy7KIVJjI8uURNBOblSqisA8/zVI+H0EmMR4AYLypXQI+598zkmcaTq31R68v/QbOYl15F6BpCS01gQ5fcLmHeIBru
+ properties :
+  width : 208
+  height : 146
+ controls :
+  -
+    name : TPLC_PullOutChart
+    identifier : 0x2727265802e68528
+    internal_properties : CAAAAAgAAAB/ECouqB5xBCqfFb8oFwN5w3WZWRV8/orcUa/b13hYiQzHYVp/bRCYuuJym5KKQP4eLsPNct8PkNk7PxLnh1cBi9WTgjy6/8V+4USCF5qkP/XvY/SQ0/oZyGsFq+K9uHVDy8lEtpwsLwPfb6tTnHa4ebGLu5xjDJNdTRUaxDW/TSzEjanjtmOZKC+yv5fOyU6ZxfIluxWXJTWJZsRFCwNTdp6ElnJ/McMm+dgeMA2GkUk72vVhtB4otJWbhr46kOx9w0qFp/YRCYVtQrdXPMnJxagTfE4D3Squ/YfXGF5Mb6i2M/vtLJqBrkF9+ZsoFo3YrSpH61M2DOW5xhtLo1FeYDmAh1zNSarkuKX/PeghK+EWZUi4KbLF4GABOWXm8ZumvObeY5YC6bOna4AomnIKNKfEvOsCICqe8JAuP/IyJRDeasEIn8GAhmV6H4cdKyQ8hdGItq6o1rk6gYKFQkdbtxIihwjjO6hFFt4=
+    properties :
+     width : 212
+     height : 150
+    controls :
+     -
+       name : CHART_ChartPullOut
+       identifier : 0x2727265802e78528
+       internal_properties : CAAAAAgAAACxXb0nBAlAe9cX93WmjZiWcgMR/5K6uCcXGedLb5VLNyXicWfIDXc1C1FOnvG9nC4TcUCGryVzL9xcJhDZY8oz/ysS+zNPTj1H33dlqffm+n/hliDtryDqcPQ6E86kH881hhBnpZmPAicMKjG3wIEsQ/1JRU+u7xZIVyBzcCki/eyVd6DhveNSu+u4JIFYV9bglfzHOYfOJ2OcfZpqBS3iPrG1HKXcFiBozRYlkPIrFlzXBkM3kgi4up5P0kpg24hDsObpe12upR01TD5tYXvotytlFDm0kxWH/wAO6vtRi+QwZXaZkLAzCF0pF29yHagdP6AOv2pPoyKmxfIXnaHHnJEbth2FGadYwM786xgMLngVufTPY/QMfRTOicT/N1GuquTcu5PLRHUh4urxTXP5IYj3CW+Pe6JjCl4PIzdSs84gp2FcEF0whfXnNaEiFlHb+lqo4i+F9eC4sgk2i6tw/U3VAn4tBgtTo+7IF2uHGcGE8ks3ChOymDlt3TtaY6ao1PE0f4XJ3XpftHVnIXm6U+4JaZGwThYJbuAhx7t3XhfcxEmy5uzkmJ8LTJf+Q2qTDKf26CiE5MkbYbvyT0ztk6xdpHN9penN1rVDpU1ajysoLjGwaaV/bpFOyOIRiuCCHY4mY11dav/orWyBo0ix/NdR8VOmvzg+N9XsZzH/dk1OrNk/51j+5lxx4Ux61LuhC11CcadnPpbMAzoWg2bS7vxDo2X7QSABLFqS1pv+LRWiI/Q5383WD0jE5oNujSIYD0xsH1qdr7FEE7VFBxrIgWRIVNBO41vJW4eP+FitMhCXHZ6FhshnhCTjLHRa6YYg6j+pzPyJ1HR93uTbKsfgcUEmdsomKUsnSgDE+m94Ywh1z153SRAYxLG2pWJ82QbnFgowZq9+OZDSyfz+9B44vt72b4EX1cHeYBCYNIj2YdYb5NKemS7v2Nub5W80Y7eqZWtdeMG9I9sLJBHMVKK40fGpe+BGkNgEpkoEDJaUE1h/179nvjH/fyDT3MQTNaD5QRtzSPbuI2p3GAzgzhFZVsGFjOFhPeLJshaMhJ8P4BukIltsMG8EMjxa/RTbQ06SZ8FF6Oq8b6Vg5g4PgxZ1ImUvrVlFhySeQL2pyVsknLW44nJQelX5CV0DR6j5zsiLHeeckvUYIa8kp+f8aTiNOhTeFAN3L4pr9KGVt0woQ6oyGhfsnFU3pvPxREemmcf9hYXzROM4dyZ/5KcQ2fpEwlXjM5cddrEpiQkgSWc/8FPlCajLSv5238SJut4ajq0=
+       properties :
+        width : 212
+        height : 150
+       type : 33
+       code_elements :
+        type_code : 72
+        p_codes :
+         -
+           code : |1+
+            // Pulls out the section that was clicked
+            PullOutSection(MouseXPos(),MouseYPos())
+            
+           type : 18
+    type : 42
+    code_elements :
+     type_code : 92
+     p_codes :
+      -
+        code : |1+
+         PROCEDURE TPLC_PullOutChart()
+         
+         // Constants of the control template
+         CONSTANT
+         	cstPullingOut = 10
+         END
+         
+         // Global variables of the control template
+         gaaPulledOutSections	is ASSOCIATIVE ARRAY of boolean	// Array containing the status of each section (pulled our or not) for the relevant chart
+      -
+        code : |1-
+         
+        type : 14
+ menu :
+  name : _Menu
+  identifier : 0x29d1de7e037651a1
+  internal_properties : CAAAAAgAAADYWWw2Hys+11fLufKQcDIeZZ7CUWU9XgQJ1jJElRUedUei7WiR/8kTEZEwhcaidMfVW05zk1SfLJ006wap/9E5e8+jxJ64SB5DWwNevBYasG6r39gaHa5M7GcN6ntNl8Wt9H91B+Q6H4fT3ixUS0MKDoLv0fKjjRcg3lkiIXFp1dGOo6GZYgp2eMEpdF8AHWScP67tECXQLk7qVO3twxctDmg1oNvF/CBBKF1hHqpdSm0PcxxfC2975rNaRVL6kvypKasNU+CSd5eCa6S6EexQrNPJBaab6MVrdgcckc0n
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 91
+  p_codes : []
+  procedures :
+   -
+     name : PullOutSection
+     procedure_id : 1668344346368181544
+     type_code : 14
+     code : |1+
+      // Summary: Pulls out or re-centers the section that was clicked
+      // Syntax:
+      //PullOutSection (<nPosX>, <nPosY>)
+      //
+      // Parameters:
+      // 	nPosX: <specify the role of nPosX>
+      // 	nPosY: <specify the role of nPosY>
+      // Return value:
+      // 	None
+      //
+      
+      PROCEDURE PullOutSection( nPosX, nPosY )
+      
+      // Local variables
+      nSectionSubscript		is int
+      
+      
+      // Retrieves the subscript of the section that was clicked
+      nSectionSubscript = grInfoXY(CHART_ChartPullOut, grCategory, nPosX , nPosY )
+      
+      // No action if the subscript is "off bounds"
+      IF nSectionSubscript = -1 THEN RETURN
+      
+      // Reverses the current status of the section in the array (pulled out => centered / centered => pulled out)
+      gaaPulledOutSections[nSectionSubscript] = NOT gaaPulledOutSections[nSectionSubscript]
+      
+      // Pulls out (or re-centers) the section of the chart
+      grPiePullOut(CHART_ChartPullOut, nSectionSubscript, cstPullingOut * gaaPulledOutSections[nSectionSubscript])
+      
+      // Redraws the chart
+      grDraw(CHART_ChartPullOut)
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : MDLC_ModèleChamps1
+resources :
+ string_res :
+  identifier : 0x1fc51f1c0003b118
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
